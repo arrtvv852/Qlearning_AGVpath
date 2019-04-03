@@ -7,8 +7,9 @@ The UI not only demonstrate the effect of Q-Learning but the A-star and Dijkstra
 Set the position (x, y) of the starting and goal point for AGV and the position of the obstacles then press "start".
 
 ## State-Action Setting
-
+![image](https://github.com/arrtvv852/Qlearning_AGVpath/blob/master/state-action.PNG)
 ## Reward Function Setting
+![image](https://github.com/arrtvv852/Qlearning_AGVpath/blob/master/reward.PNG)
 
 ## Illustration:
 
