@@ -6,4 +6,4 @@ The UI shows how AGV agent learn how to avoid the new obstacle in the path by re
 The UI not only demonstrate the effect of Q-Learning but the A-star and Dijkstra path algorithm as well.
 Set the position (x, y) of the starting and goal point for AGV and the position of the obstacles then press "start".
 
-https://github.com/arrtvv852/Qlearning_AGVpath/blob/master/ezgif.com-video-to-gif.gif
+![image](https://github.com/arrtvv852/Qlearning_AGVpath/blob/master/ezgif.com-video-to-gif.gif)
